@@ -1,0 +1,5 @@
+fare una rappresentazione dei dipendenti (che sono persone) di una certa azienda.
+fare tabelle di relazione tra dipendenti e aziende
+relazione one to many
+
+- sveglia paolo

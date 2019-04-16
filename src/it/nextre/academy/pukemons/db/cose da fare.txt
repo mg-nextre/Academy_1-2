@@ -1,0 +1,6 @@
+- creare un DBConnectFactory e rinominare DBConnect in DBConnectMySQL
+- UtilityDB deve avere le liste (non solo di mySQLAllowedTypes) ma anche degli altri db tipo postgres / SQL e altri...
+
+
+
+- fare tabella di lookup per le mosse possibili e collegarle ai pukemon tramite 4 colonne per le loro mosse

@@ -1,0 +1,12 @@
+fare un ecommerce con carrello, cashback,
+lista di prodotti, tipologia dei prodotti (enum interna al Prodotto) e la possibilità di copiare il carrello.
+Creare degli utenti con i loro carrelli personali.
++
+
+surplus:
+- gli utenti hanno un saldo             +
+- i prodotti sono in numero finito
+- alcuni prodotti sono in sconto        +
+
+super surplus:
+- fare il DB con Prodotti, Utenti e i loro carrelli (tabella intermedia)

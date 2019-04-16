@@ -1,0 +1,19 @@
+Scrivere un programma che, dato un certo tempo in giorni, ore, minuti e secondi,restituisca il numero totale di secondi.
+------------------------------------------------------------
+Scrivere un programma che stampi la domanda “Vuoi continuare?” e che attenda dati dall’utente.
+Se l’utente immette “S”, “Sì”, “Ok”, “Certo” o “Perché no?”, stampare “OK”.
+Se l’utente scrive “N” o “No”, stampare “Fine”. Negli altri casi, stampare “Dato non corretto”.
+Non considerare differenze tra maiuscolo e minuscolo, quindi anche “s” e “sì” sono validi.
+------------------------------------------------------------
+TRIS
+fare una matrice 3x3 in cui l'utente immette il nome della riga e colonna dove vuole immettere il suo simbolo.
+Fare scegliere all'utente il simbolo da immettere.
+L'utente giocherà contro il pc (Il pc gioca randomicamente).
+Far stampare a video il gioco dopo ogni decisione presa(sia dall'utente che dal pc).
+------------------------------------------------------------
+BATTAGLIA NAVALE
+fare una matrice con 4-5 navi da mettere nella matrice (diverse dimensioni).
+Totale di 3 matrici:
+    -   per l'utente
+    -   per l'utente dove colpisce/manca
+    -   per il computer
